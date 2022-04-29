@@ -1,0 +1,1211 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "sroffset": 500,
+        "continue": "-||"
+    },
+    "query": {
+        "searchinfo": {
+            "totalhits": 10765
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "Michael Jordan",
+                "pageid": 50915,
+                "size": 170770,
+                "wordcount": 17126,
+                "snippet": "Vous lisez un « bon article ». Pour les articles homonymes, voir Michael Jordan (homonymie), Jordan et MJ. Michael Jordan (aussi appelé par ses initiales",
+                "timestamp": "2022-04-05T08:44:57Z"
+            },
+            {
+                "ns": 0,
+                "title": "Magic Johnson",
+                "pageid": 227970,
+                "size": 155132,
+                "wordcount": 16812,
+                "snippet": "Pour les articles homonymes, voir Magic et Johnson. Vous lisez un « bon article ». Earvin Johnson Jr., dit Magic Johnson, né le 14 août 1959 à Lansing",
+                "timestamp": "2022-03-25T12:43:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "LeBron James",
+                "pageid": 271932,
+                "size": 177754,
+                "wordcount": 15824,
+                "snippet": "Pour les articles homonymes, voir James. « King James » redirige ici. Pour la Bible King James, voir Bible du roi Jacques. LeBron Raymone James, né le",
+                "timestamp": "2022-04-06T06:04:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Larry Bird",
+                "pageid": 232155,
+                "size": 179340,
+                "wordcount": 17444,
+                "snippet": "Vous lisez un « article de qualité ». Pour les articles homonymes, voir Bird. Larry Joe Bird, parfois surnommé « Larry Legend » ou « Gold Hand », est un",
+                "timestamp": "2022-03-12T11:34:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Shaquille O'Neal",
+                "pageid": 172063,
+                "size": 93026,
+                "wordcount": 9395,
+                "snippet": "Pour les articles homonymes, voir O'Neal. Shaquille O'Neal, surnommé Shaq, né le 6 mars 1972 à Newark dans le New Jersey, est un joueur américain de basket-ball",
+                "timestamp": "2022-03-30T14:12:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kobe Bryant",
+                "pageid": 295028,
+                "size": 114409,
+                "wordcount": 11379,
+                "snippet": "Pour les articles homonymes, voir Bryant. Kobe Bryant (/ˈkoʊbiː ˈbɹaɪənt/), né le 23 août 1978 à Philadelphie en Pennsylvanie et mort le 26 janvier 2020",
+                "timestamp": "2022-04-06T14:11:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tony Parker",
+                "pageid": 4304612,
+                "size": 181001,
+                "wordcount": 15269,
+                "snippet": "Pour les articles homonymes, voir Parker et TP. Tony Parker surnommé TP, de son vrai nom William Anthony Parker II, né le 17 mai 1982 à Bruges (Belgique)",
+                "timestamp": "2022-04-03T08:00:12Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Russell",
+                "pageid": 272523,
+                "size": 111663,
+                "wordcount": 10814,
+                "snippet": "Vous lisez un « article de qualité ». Pour les articles homonymes, voir William Russell et Russell. William Felton Russell, dit Bill Russell, né le 12",
+                "timestamp": "2022-03-27T09:51:57Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kareem Abdul-Jabbar",
+                "pageid": 188677,
+                "size": 180585,
+                "wordcount": 17465,
+                "snippet": "Ne doit pas être confondu avec Abdoul Jabbar. Kareem Abdul-Jabbar, né Ferdinand Lewis Alcindor (ou Lew Alcindor) le 16 avril 1947 à New York, est un joueur",
+                "timestamp": "2022-03-28T01:09:33Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tim Duncan",
+                "pageid": 229630,
+                "size": 60356,
+                "wordcount": 5782,
+                "snippet": "Pour les articles homonymes, voir Duncan. Timothy Theodore Duncan dit Tim Duncan, né le 25 avril 1976 à Christiansted sur l'île de Sainte-Croix dans les",
+                "timestamp": "2022-03-25T16:12:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Steve Nash",
+                "pageid": 255478,
+                "size": 53213,
+                "wordcount": 4495,
+                "snippet": "Pour les articles homonymes, voir Nash. Stephen John Nash, né le 7 février 1974 à Johannesbourg en Afrique du Sud, est un entraîneur et ancien joueur de",
+                "timestamp": "2021-12-30T20:05:04Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jason Kidd",
+                "pageid": 230180,
+                "size": 34665,
+                "wordcount": 2223,
+                "snippet": "Pour les articles homonymes, voir Kidd. Jason Frederick Kidd dit J-Kidd, né le 23 mars 1973 à San Francisco en Californie, est un joueur et entraîneur",
+                "timestamp": "2022-04-06T08:34:16Z"
+            },
+            {
+                "ns": 0,
+                "title": "Wilt Chamberlain",
+                "pageid": 243812,
+                "size": 92964,
+                "wordcount": 9613,
+                "snippet": "Pour les articles homonymes, voir Chamberlain. Wilton Norman Chamberlain, dit Wilt Chamberlain, né le 21 août 1936 à Philadelphie (Pennsylvanie) et mort",
+                "timestamp": "2022-03-15T21:16:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Paul Pierce",
+                "pageid": 535045,
+                "size": 56239,
+                "wordcount": 3923,
+                "snippet": "Pour les articles homonymes, voir Pierce. Paul Pierce, surnommé The Truth, né le 13 octobre 1977 à Oakland en Californie, est un joueur américain de basket-ball",
+                "timestamp": "2022-02-25T13:22:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Ray Allen",
+                "pageid": 509953,
+                "size": 91750,
+                "wordcount": 8264,
+                "snippet": "Vous lisez un « bon article ». Pour les articles homonymes, voir Allen. Walter Ray Allen dit Ray Allen, né le 20 juillet 1975, est un joueur américain",
+                "timestamp": "2022-04-06T08:35:52Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kevin Garnett",
+                "pageid": 222168,
+                "size": 51575,
+                "wordcount": 3696,
+                "snippet": "Pour les articles homonymes, voir Garnett et KG. Kevin Garnett (né le 19 mai 1976 à Greenville, en Caroline du Sud) est un joueur américain de basket-ball",
+                "timestamp": "2021-12-03T08:03:52Z"
+            },
+            {
+                "ns": 0,
+                "title": "David Robinson (basket-ball, 1965)",
+                "pageid": 242406,
+                "size": 23248,
+                "wordcount": 1620,
+                "snippet": "Ne doit pas être confondu avec David Robinson, joueur de basket-ball né en 1969. Pour les articles homonymes, voir David Robinson et Robinson. David Robinson",
+                "timestamp": "2022-04-06T08:36:13Z"
+            },
+            {
+                "ns": 0,
+                "title": "Hakeem Olajuwon",
+                "pageid": 298748,
+                "size": 37090,
+                "wordcount": 2753,
+                "snippet": "Hakeem Olajuwon, né Akeem Abdul Olajuwon le 21 janvier 1963 à Lagos au Nigeria, est un joueur nigérian de basket-ball. Il effectue l'intégralité de sa",
+                "timestamp": "2021-10-23T09:39:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Patrick Ewing",
+                "pageid": 222092,
+                "size": 29749,
+                "wordcount": 1510,
+                "snippet": "Pour les articles homonymes, voir Ewing. Patrick Ewing, né le 5 août 1962 à Kingston en Jamaïque, est un ancien joueur de basket-ball américain évoluant",
+                "timestamp": "2022-01-07T16:23:33Z"
+            },
+            {
+                "ns": 0,
+                "title": "Allen Iverson",
+                "pageid": 295151,
+                "size": 57999,
+                "wordcount": 6233,
+                "snippet": "Pour les articles homonymes, voir Iverson. Allen Ezail Iverson, plus connu sous le nom d'Allen Iverson et surnommé the Answer, né le 7 juin 1975 à Hampton",
+                "timestamp": "2021-11-25T07:20:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Toni Kukoč",
+                "pageid": 239090,
+                "size": 39127,
+                "wordcount": 3811,
+                "snippet": "Pour les articles homonymes, voir Toni. Toni Kukoč (né le 18 septembre 1968 à Split) est un ancien joueur professionnel croate de basket-ball, qui est",
+                "timestamp": "2021-10-18T10:19:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Isiah Thomas",
+                "pageid": 524955,
+                "size": 54813,
+                "wordcount": 4875,
+                "snippet": "Ne doit pas être confondu avec Isaiah Thomas. Pour les articles homonymes, voir Thomas. Isiah Lord Thomas III (né le 30 avril 1961 à Chicago) est un ancien",
+                "timestamp": "2021-12-03T07:34:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "John Havlicek",
+                "pageid": 570296,
+                "size": 79930,
+                "wordcount": 6375,
+                "snippet": "Vous lisez un « bon article ». Pour les articles homonymes, voir Havlíček. John Joseph Havlicek, né le 8 avril 1940 à Martins Ferry dans l'Ohio et mort",
+                "timestamp": "2021-10-23T09:32:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jerry West",
+                "pageid": 244886,
+                "size": 25702,
+                "wordcount": 1564,
+                "snippet": "Pour les articles homonymes, voir West. Jerry Alan West, surnommé Mr. Clutch, né le 28 mai 1938 à Cheylan, en Virginie-Occidentale, est un joueur de basket-ball",
+                "timestamp": "2022-03-18T21:07:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Larry Brown (basket-ball)",
+                "pageid": 164274,
+                "size": 78999,
+                "wordcount": 6747,
+                "snippet": "Pour les articles homonymes, voir Larry Brown et Brown. Lawrence Harvey Brown, dit Larry Brown, né le 14 septembre 1940 à Brooklyn, État de New York, est",
+                "timestamp": "2022-02-21T01:02:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Gary Payton (basket-ball)",
+                "pageid": 655465,
+                "size": 36195,
+                "wordcount": 2119,
+                "snippet": "Pour les articles homonymes, voir Gary Payton (astronaute) et Payton. Gary Dwayne Payton Sr. (né le 23 juillet 1968 à Oakland, Californie, États-Unis)",
+                "timestamp": "2022-03-26T01:29:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Elgin Baylor",
+                "pageid": 555154,
+                "size": 23435,
+                "wordcount": 973,
+                "snippet": "Pour les articles homonymes, voir Baylor. Elgin Gay Baylor, né le 16 septembre 1934 à Washington DC aux États-Unis et mort le 22 mars 2021 à Los Angeles",
+                "timestamp": "2022-02-11T07:54:34Z"
+            },
+            {
+                "ns": 0,
+                "title": "Phil Jackson",
+                "pageid": 201428,
+                "size": 40052,
+                "wordcount": 3804,
+                "snippet": "Pour les articles homonymes, voir Jackson. Philip Douglas Jackson (né le 17 septembre 1945 à Deer Lodge dans le Montana) est un ancien joueur, entraîneur",
+                "timestamp": "2022-03-13T14:19:54Z"
+            },
+            {
+                "ns": 0,
+                "title": "Charles Barkley",
+                "pageid": 245796,
+                "size": 82600,
+                "wordcount": 7992,
+                "snippet": "Pour les articles homonymes, voir Barkley. Charles Wade Barkley, né le 20 février 1963 à Leeds dans l'État de l'Alabama, est un ancien joueur de basket-ball",
+                "timestamp": "2022-03-22T15:47:55Z"
+            },
+            {
+                "ns": 0,
+                "title": "Arvydas Sabonis",
+                "pageid": 243162,
+                "size": 96488,
+                "wordcount": 8760,
+                "snippet": "Arvydas Sabonis (Arvydas Sabonis) (né le 19 décembre 1964 à Kaunas RSS de Lituanie) est un joueur de basket-ball lituanien évoluant au poste de pivot.",
+                "timestamp": "2021-09-11T08:41:45Z"
+            },
+            {
+                "ns": 0,
+                "title": "Scottie Pippen",
+                "pageid": 222156,
+                "size": 64619,
+                "wordcount": 6322,
+                "snippet": "Scott &quot;Scottie&quot; Maurice Pippen, né le 25 septembre 1965 à Hamburg en Arkansas, est un joueur américain de basket-ball, évoluant au poste d'ailier. Il est",
+                "timestamp": "2021-12-11T18:18:01Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bob Cousy",
+                "pageid": 396158,
+                "size": 85839,
+                "wordcount": 8485,
+                "snippet": "Vous lisez un « bon article ». Robert Joseph Cousy, dit Bob Cousy, né le 9 août 1928 à New York, est un joueur américain de basket-ball. Surnommé « Cooz »",
+                "timestamp": "2022-02-15T10:22:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dave Cowens",
+                "pageid": 395740,
+                "size": 14210,
+                "wordcount": 932,
+                "snippet": "Dave Cowens (né le 25 octobre 1948) est un ancien joueur de basket-ball américain professionnel qui est connu pour avoir été l'un des joueurs majeurs des",
+                "timestamp": "2022-03-12T14:19:08Z"
+            },
+            {
+                "ns": 0,
+                "title": "Red Auerbach",
+                "pageid": 392259,
+                "size": 88898,
+                "wordcount": 9420,
+                "snippet": "Pour les articles homonymes, voir Auerbach. Vous lisez un « article de qualité ». Arnold Jacob Auerbach, dit Red Auerbach, né le 20 septembre 1917 à Brooklyn",
+                "timestamp": "2021-11-30T09:56:01Z"
+            },
+            {
+                "ns": 0,
+                "title": "Yao Ming",
+                "pageid": 114506,
+                "size": 32845,
+                "wordcount": 2679,
+                "snippet": "Pour les articles homonymes, voir Yao. Yao Ming (en chinois : 姚明, en shanghaïen YO Min/jɔ¹³miɲ¹³/), né le 12 septembre 1980 à Shanghai en Chine, est un",
+                "timestamp": "2021-10-19T00:01:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Chris Webber",
+                "pageid": 698223,
+                "size": 23013,
+                "wordcount": 1898,
+                "snippet": "Pour les articles homonymes, voir Webber. Chris Webber, parfois surnommé C-Webb, est un joueur de basket-ball américain né le 1er mars 1973 à Détroit ayant",
+                "timestamp": "2021-09-28T09:01:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "K. C. Jones",
+                "pageid": 1796375,
+                "size": 8595,
+                "wordcount": 585,
+                "snippet": "Pour les articles homonymes, voir Jones. K. C. Jones, né le 25 mai 1932 à Taylor dans le Texas et mort le 25 décembre 2020, est un joueur et entraîneur",
+                "timestamp": "2021-07-31T11:17:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Oscar Robertson",
+                "pageid": 331262,
+                "size": 74672,
+                "wordcount": 7251,
+                "snippet": "Pour les articles homonymes, voir Robertson. Oscar Palmer Robertson (né le 24 novembre 1938 à Charlotte dans le Tennessee) est un joueur de basket-ball",
+                "timestamp": "2021-11-28T15:03:39Z"
+            },
+            {
+                "ns": 0,
+                "title": "James Worthy",
+                "pageid": 550479,
+                "size": 6266,
+                "wordcount": 525,
+                "snippet": "James Ager Worthy, né le 27 février 1961 à Gastonia, Caroline du Nord, est joueur américain de basket-ball. Cet ailier de 2,05 m a été élu parmi les meilleurs",
+                "timestamp": "2021-10-23T09:44:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Walton",
+                "pageid": 337568,
+                "size": 13746,
+                "wordcount": 764,
+                "snippet": "Pour les articles homonymes, voir Walton. William Theodore Walton III, connu sous le nom de Bill Walton (né le 5 novembre 1952 à San Diego en Californie)",
+                "timestamp": "2021-10-23T09:43:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Lenny Wilkens",
+                "pageid": 570413,
+                "size": 75308,
+                "wordcount": 7556,
+                "snippet": "Pour les articles homonymes, voir Lenny. Leonard Randolph Wilkens (dit Lenny Wilkens, né le 28 octobre 1937 à Brooklyn, New York, États-Unis d'Amérique)",
+                "timestamp": "2021-11-25T07:08:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dennis Rodman",
+                "pageid": 339120,
+                "size": 38648,
+                "wordcount": 3167,
+                "snippet": "Pour les articles homonymes, voir Rodman. Dennis Rodman, né le 13 mai 1961 à Trenton dans le New Jersey (États-Unis), est un joueur américain de basket-ball",
+                "timestamp": "2022-02-04T16:32:53Z"
+            },
+            {
+                "ns": 0,
+                "title": "Chris Bosh",
+                "pageid": 986164,
+                "size": 16550,
+                "wordcount": 1213,
+                "snippet": "Ne doit pas être confondu avec le catcheur Chris Bosh. Christopher Bosh, né le 24 mars 1984 à Dallas au Texas, est un joueur américain de basket-ball.",
+                "timestamp": "2022-03-30T15:27:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kevin McHale",
+                "pageid": 608375,
+                "size": 26655,
+                "wordcount": 1982,
+                "snippet": "Pour l'acteur du même nom, voir Kevin McHale (acteur). Pour les autres personnes portant ce patronyme, voir McHale. Kevin Edward McHale (né le 19 décembre",
+                "timestamp": "2022-03-24T08:12:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Grant Hill (basket-ball)",
+                "pageid": 222807,
+                "size": 19055,
+                "wordcount": 955,
+                "snippet": "Pour les articles homonymes, voir Grant Hill et Hill. Grant Hill, né le 5 octobre 1972 à Dallas (Texas), est un joueur de basket-ball américain qui évolua",
+                "timestamp": "2022-04-06T08:34:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Julius Erving",
+                "pageid": 245803,
+                "size": 21804,
+                "wordcount": 1426,
+                "snippet": "Julius Winfield Erving II, né le 22 février 1950 à Roosevelt Island (New York), surnommé Dr. J est un des plus grands joueurs de basket-ball de l'histoire",
+                "timestamp": "2022-04-03T01:10:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "David Thompson (basket-ball)",
+                "pageid": 2447271,
+                "size": 15051,
+                "wordcount": 1767,
+                "snippet": "Pour les articles homonymes, voir Thompson et David Thompson. David O'Neil Thompson (né le 13 juillet 1954 à Shelby en Caroline du Nord) est une ancienne",
+                "timestamp": "2021-11-25T07:12:34Z"
+            },
+            {
+                "ns": 0,
+                "title": "Stephen Curry",
+                "pageid": 4631014,
+                "size": 99687,
+                "wordcount": 9970,
+                "snippet": "Pour les articles homonymes, voir Stephen et Curry (homonymie). Stephen Curry, né le 14 mars 1988 à Akron (Ohio, États-Unis), est un joueur américain de",
+                "timestamp": "2022-04-06T20:56:39Z"
+            },
+            {
+                "ns": 0,
+                "title": "Lauren Jackson",
+                "pageid": 248236,
+                "size": 22991,
+                "wordcount": 1945,
+                "snippet": "Pour les articles homonymes, voir Jackson. Lauren Jackson, née le 11 mai 1981 à Albury, est une joueuse australienne de basket-ball évoluant au poste d'intérieure",
+                "timestamp": "2021-09-28T09:00:33Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Sharman",
+                "pageid": 520975,
+                "size": 34981,
+                "wordcount": 2052,
+                "snippet": "Pour les articles homonymes, voir Sharman. William Walton « Bill » Sharman, né le 25 mai 1926 à Abilene (Texas, États-Unis) et mort le 25 octobre 2013",
+                "timestamp": "2021-11-25T07:05:57Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tom Heinsohn",
+                "pageid": 1801180,
+                "size": 7635,
+                "wordcount": 618,
+                "snippet": "Thomas William Heinsohn (né le 26 août 1934 - mort le 10 novembre 2020) est un ancien joueur américain de basket-ball. Il est membre du Basketball Hall",
+                "timestamp": "2021-07-31T13:21:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Carmelo Anthony",
+                "pageid": 510150,
+                "size": 67932,
+                "wordcount": 7006,
+                "snippet": "Pour les articles homonymes, voir Anthony. Carmelo Anthony, surnommé Melo, né le 29 mai 1984 à Brooklyn dans l'État de New York (États-Unis), est un joueur",
+                "timestamp": "2022-02-22T07:31:06Z"
+            },
+            {
+                "ns": 0,
+                "title": "Pau Gasol",
+                "pageid": 243960,
+                "size": 100945,
+                "wordcount": 8255,
+                "snippet": "Pour les articles homonymes, voir Gasol. Pau Gasol Sáez, né le 6 juillet 1980 à Barcelone (Catalogne, Espagne), est un joueur espagnol de basket-ball évoluant",
+                "timestamp": "2022-03-21T13:32:42Z"
+            },
+            {
+                "ns": 0,
+                "title": "Maurice Cheeks",
+                "pageid": 1854938,
+                "size": 7344,
+                "wordcount": 485,
+                "snippet": "Maurice « Mo » Edward Cheeks (né le 8 septembre 1956, à Chicago, Illinois) est un joueur puis entraîneur américain de basket-ball. Il est l'entraîneur",
+                "timestamp": "2021-07-31T10:56:25Z"
+            },
+            {
+                "ns": 0,
+                "title": "Don Nelson",
+                "pageid": 241560,
+                "size": 11473,
+                "wordcount": 993,
+                "snippet": "Pour les articles homonymes, voir Nelson. Donald Arvid Nelson (né le 15 mai 1940 à Muskegon dans le Michigan) est un ancien joueur et entraîneur de basket-ball",
+                "timestamp": "2022-03-12T11:21:35Z"
+            },
+            {
+                "ns": 0,
+                "title": "Pat Riley",
+                "pageid": 232080,
+                "size": 12443,
+                "wordcount": 1347,
+                "snippet": "Pour les articles homonymes, voir Riley. Cet article ne cite pas suffisamment ses sources (novembre 2012). Si vous disposez d'ouvrages ou d'articles de",
+                "timestamp": "2022-03-29T19:07:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dikembe Mutombo",
+                "pageid": 340661,
+                "size": 22508,
+                "wordcount": 1174,
+                "snippet": "Dikembe Mutombo Mpolondo Mukamba Jean-Jacques wa Mutombo dit Dikembe Mutombo, né le 25 juin 1966 à Kinshasa en République démocratique du Congo, est un",
+                "timestamp": "2021-12-03T07:44:58Z"
+            },
+            {
+                "ns": 0,
+                "title": "Elvin Hayes",
+                "pageid": 594132,
+                "size": 17141,
+                "wordcount": 681,
+                "snippet": "Elvin Ernest Hayes (né le 17 novembre 1945 à Rayville, Louisiane) est un ancien joueur professionnel américain de basket-ball. Il figura parmi les 50 meilleurs",
+                "timestamp": "2022-04-03T14:26:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dennis Johnson",
+                "pageid": 681150,
+                "size": 53668,
+                "wordcount": 4499,
+                "snippet": "Pour les articles homonymes, voir Johnson et Dennis Johnson (homonymie). Dennis Johnson (né le 18 septembre 1954 à San Pedro en Californie - mort le 22",
+                "timestamp": "2021-08-30T06:11:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Sergueï Belov",
+                "pageid": 411019,
+                "size": 12828,
+                "wordcount": 957,
+                "snippet": "Pour les articles homonymes, voir Belov et Vladimir Belov. Sergueï Alexandrovitch Belov (en russe : Сергей Александрович Белов), né le 23 janvier 1944",
+                "timestamp": "2021-07-31T10:54:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Clyde Drexler",
+                "pageid": 341610,
+                "size": 26294,
+                "wordcount": 1616,
+                "snippet": "Pour les articles homonymes, voir Drexler. Clyde Austin Drexler dit The Glide (le Planeur), né le 22 juin 1962 à La Nouvelle-Orléans en Louisiane, est",
+                "timestamp": "2022-03-21T05:42:58Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kevin Durant",
+                "pageid": 1454221,
+                "size": 78285,
+                "wordcount": 6719,
+                "snippet": "Pour les articles homonymes, voir Durant et Kevin Durand. Kevin Durant, né le 29 septembre 1988 à Washington, D.C, est un joueur américain de basket-ball",
+                "timestamp": "2022-04-07T06:05:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "John Stockton",
+                "pageid": 259778,
+                "size": 29922,
+                "wordcount": 1921,
+                "snippet": "Pour les articles homonymes, voir Stockton. John Houston Stockton, né le 26 mars 1962 à Spokane dans l'État de Washington, est un joueur américain de basket-ball",
+                "timestamp": "2022-03-29T15:43:08Z"
+            },
+            {
+                "ns": 0,
+                "title": "Robert Parish",
+                "pageid": 520523,
+                "size": 13427,
+                "wordcount": 1052,
+                "snippet": "Pour les articles homonymes, voir Parish et Robert Parrish. Robert Lee Parish, né le 30 août 1953 à Shreveport (Louisiane, États-Unis), est un ancien joueur",
+                "timestamp": "2022-02-21T09:07:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dražen Petrović",
+                "pageid": 239170,
+                "size": 142219,
+                "wordcount": 15055,
+                "snippet": "Vous lisez un « bon article ». Pour les articles homonymes, voir Petrović. Dražen Petrović, né le 22 octobre 1964 à Šibenik en Yougoslavie et mort le 7",
+                "timestamp": "2022-03-16T17:27:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jerry Lucas",
+                "pageid": 623098,
+                "size": 8470,
+                "wordcount": 795,
+                "snippet": "Pour les articles homonymes, voir Lucas. Cet article est une ébauche concernant le basket-ball. Vous pouvez partager vos connaissances en l’améliorant",
+                "timestamp": "2022-02-28T20:24:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Vlade Divac",
+                "pageid": 407909,
+                "size": 16557,
+                "wordcount": 1057,
+                "snippet": "Vlade Divac (en cyrillique serbe Владе Дивац), né le 3 février 1968 à Priboj (Yougoslavie), est un joueur serbe de basket-ball. Il joue au poste de pivot",
+                "timestamp": "2022-03-25T08:09:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Sam Jones (basket-ball)",
+                "pageid": 555171,
+                "size": 27655,
+                "wordcount": 976,
+                "snippet": "Pour les articles homonymes, voir Sam Jones, Samuel Jones (homonymie) et Jones. Samuel « Sam » Jones, né le 24 juin 1933 à Wilmington (Caroline du Nord)",
+                "timestamp": "2022-03-12T11:24:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Moses Malone",
+                "pageid": 222194,
+                "size": 57467,
+                "wordcount": 5453,
+                "snippet": "Pour les articles homonymes, voir Malone. Moses Eugene Malone, né le 23 mars 1955 à Petersburg en Virginie aux États-Unis et mort le 13 septembre 2015",
+                "timestamp": "2021-10-23T09:35:56Z"
+            },
+            {
+                "ns": 0,
+                "title": "Karl Malone",
+                "pageid": 205337,
+                "size": 59491,
+                "wordcount": 5809,
+                "snippet": "Pour les articles homonymes, voir Malone. Karl Anthony Malone, né le 24 juillet 1963 à Summerfield dans l'État de Louisiane, est un joueur professionnel",
+                "timestamp": "2022-03-20T08:05:16Z"
+            },
+            {
+                "ns": 0,
+                "title": "Rick Barry",
+                "pageid": 555169,
+                "size": 20879,
+                "wordcount": 1152,
+                "snippet": "Pour les articles homonymes, voir Barry. Richard Francis Dennis Barry III (né le 28 mars 1944 à Elizabeth, New Jersey, États-Unis) est un ancien joueur",
+                "timestamp": "2022-01-25T07:14:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Anthony Davis (basket-ball)",
+                "pageid": 6142833,
+                "size": 49902,
+                "wordcount": 4342,
+                "snippet": "Pour les articles homonymes, voir Anthony Davis et Davis. Anthony Davis, né le 11 mars 1993 à Chicago (États-Unis), est un joueur américain de basket-ball",
+                "timestamp": "2022-04-06T10:23:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Mitch Richmond",
+                "pageid": 896064,
+                "size": 14184,
+                "wordcount": 1492,
+                "snippet": "Pour les articles homonymes, voir Richmond. Mitchell James Richmond, dit Mitch Richmond (né le 30 juin 1965 à Fort Lauderdale, Floride) est un joueur de",
+                "timestamp": "2022-03-25T13:40:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dominique Wilkins",
+                "pageid": 457171,
+                "size": 17177,
+                "wordcount": 921,
+                "snippet": "Pour les articles homonymes, voir Wilkins. Jacques Dominique Wilkins, surnommé Human Highlight Film ou encore Do, né le 12 janvier 1960 à Paris est un",
+                "timestamp": "2022-03-27T23:21:08Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dino Rađa",
+                "pageid": 391220,
+                "size": 12319,
+                "wordcount": 999,
+                "snippet": "Dino Radja, (en croate: Dino Rađa) né le 24 avril 1967 à Split, est un joueur croate de basket-ball, jouant au poste d'intérieur. Après une carrière couronnée",
+                "timestamp": "2022-03-15T13:24:02Z"
+            },
+            {
+                "ns": 0,
+                "title": "Alonzo Mourning",
+                "pageid": 337873,
+                "size": 21696,
+                "wordcount": 1112,
+                "snippet": "Pour les articles homonymes, voir Mourning (homonymie). Alonzo Mourning (né le 8 février 1970 à Chesapeake, Virginie, États-Unis) est un ancien joueur",
+                "timestamp": "2021-12-03T07:45:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bob McAdoo",
+                "pageid": 396406,
+                "size": 14555,
+                "wordcount": 587,
+                "snippet": "Pour les articles homonymes, voir McAdoo. Robert « Bob » MacAdoo est un ancien joueur de basket-ball américain né le 25 septembre 1951, à Greensboro en",
+                "timestamp": "2022-03-20T11:41:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Pete Maravich",
+                "pageid": 471402,
+                "size": 20853,
+                "wordcount": 1906,
+                "snippet": "Pete Maravich dit Pistol Pete (né le 22 juin 1947 à Aliquippa, Pennsylvanie – mort le 5 janvier 1988) était un joueur de basket-ball américain d'origine",
+                "timestamp": "2022-02-11T19:27:51Z"
+            },
+            {
+                "ns": 0,
+                "title": "Krešimir Ćosić",
+                "pageid": 405699,
+                "size": 12829,
+                "wordcount": 989,
+                "snippet": "Pour les articles homonymes, voir Ćosić. Krešimir Ćosić, né le 26 novembre 1948 à Zagreb, mort le 25 mai 1995 à Baltimore (Maryland) aux États-Unis, est",
+                "timestamp": "2021-09-23T12:46:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dirk Nowitzki",
+                "pageid": 230289,
+                "size": 97831,
+                "wordcount": 9243,
+                "snippet": "Dirk Nowitzki, né le 19 juin 1978 à Wurtzbourg en Allemagne, est un joueur allemand de basket-ball ayant évolué toute sa carrière dans l'équipe NBA des",
+                "timestamp": "2022-04-03T20:30:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bob Lanier",
+                "pageid": 1888550,
+                "size": 7232,
+                "wordcount": 658,
+                "snippet": "Pour les articles homonymes, voir Lanier. Robert Jerry Lanier, Jr., dit Bob Lanier, (né le 10 septembre 1948, à Buffalo, New York - ) est un ancien joueur",
+                "timestamp": "2022-03-12T14:17:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dawn Staley",
+                "pageid": 1057739,
+                "size": 13302,
+                "wordcount": 959,
+                "snippet": "Dawn Staley, née le 4 mai 1970 à Philadelphie, est une joueuse et entraineuse américaine de basket-ball. Elle possède l'un des plus beaux palmarès du basket-ball",
+                "timestamp": "2021-12-11T18:19:42Z"
+            },
+            {
+                "ns": 0,
+                "title": "Doc Rivers",
+                "pageid": 843208,
+                "size": 31597,
+                "wordcount": 1919,
+                "snippet": "Pour les articles homonymes, voir Doc et Rivers. Doc Rivers, de son vrai nom Glenn Rivers, né le 13 octobre 1961 à Chicago, dans l'Illinois, est un entraîneur",
+                "timestamp": "2021-12-03T07:35:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Bradley (basket-ball)",
+                "pageid": 1796286,
+                "size": 4801,
+                "wordcount": 279,
+                "snippet": "Pour les articles homonymes, voir Bill Bradley (homonymie) et Bradley. William Warren Bradley, dit Bill Bradley, né le 28 juillet 1943, à Crystal City",
+                "timestamp": "2021-09-25T07:36:37Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tom Sanders",
+                "pageid": 1864711,
+                "size": 13235,
+                "wordcount": 424,
+                "snippet": "Pour les articles homonymes, voir Sanders. Ne pas confondre avec le mathématicien Tom Sanders. Cet article est une ébauche concernant le basket-ball et",
+                "timestamp": "2021-07-31T16:06:25Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dwyane Wade",
+                "pageid": 695196,
+                "size": 79721,
+                "wordcount": 7645,
+                "snippet": "Pour les articles homonymes, voir Wade. Dwyane Wade, né le 17 janvier 1982 à Chicago dans l'Illinois, est un joueur américain de basket-ball ayant évolué",
+                "timestamp": "2022-04-02T10:12:42Z"
+            },
+            {
+                "ns": 0,
+                "title": "Chris Paul",
+                "pageid": 792866,
+                "size": 69408,
+                "wordcount": 6056,
+                "snippet": "Pour les articles homonymes, voir Chris et Paul. Chris Paul, de son nom complet Christopher Paul, né le 6 mai 1985 à Winston-Salem en Caroline du Nord",
+                "timestamp": "2022-04-04T08:34:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Sheryl Swoopes",
+                "pageid": 511041,
+                "size": 102503,
+                "wordcount": 9253,
+                "snippet": "Vous lisez un « bon article ». Sheryl Swoopes, née le 25 mars 1971 à Brownfield au Texas (États-Unis), est une joueuse de basket-ball américaine. Championne",
+                "timestamp": "2021-07-31T13:09:50Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tracy McGrady",
+                "pageid": 2856529,
+                "size": 30275,
+                "wordcount": 2021,
+                "snippet": "Tracy Lamar McGrady Jr, né le 24 mai 1979 à Bartow, près d'Orlando en Floride, est un ancien joueur américain de basket-ball. Joueur offensif complet,",
+                "timestamp": "2022-03-19T22:29:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jamaal Wilkes",
+                "pageid": 1840689,
+                "size": 10163,
+                "wordcount": 992,
+                "snippet": "Pour les articles homonymes, voir Wilkes. Jamaal Wilkes (né Jackson Keith Wilkes le 2 mai 1953 à Berkeley, Californie) est un ancien joueur professionnel",
+                "timestamp": "2021-08-05T17:06:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "Willis Reed",
+                "pageid": 376288,
+                "size": 17674,
+                "wordcount": 1419,
+                "snippet": "Pour les articles homonymes, voir Reed. Willis Reed Jr, né le 25 juin 1942 à Hico en Louisiane, est un ancien joueur de basket-ball américain. Il a joué",
+                "timestamp": "2021-10-23T09:40:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "James Harden",
+                "pageid": 3935767,
+                "size": 71013,
+                "wordcount": 5438,
+                "snippet": "Pour les articles homonymes, voir Harden. James Harden (état civil complet : James Edward Harden Jr.), né le 26 août 1989 à Los Angeles,il est originaire",
+                "timestamp": "2022-04-06T08:52:04Z"
+            },
+            {
+                "ns": 0,
+                "title": "Ben Wallace (basket-ball)",
+                "pageid": 216741,
+                "size": 28721,
+                "wordcount": 1598,
+                "snippet": "Ne doit pas être confondu avec Ben Wallace (homme politique). Pour les articles homonymes, voir Wallace. Ben Camey Wallace, né le 10 septembre 1974 à White",
+                "timestamp": "2022-03-30T19:57:52Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dwight Howard",
+                "pageid": 670707,
+                "size": 50647,
+                "wordcount": 4135,
+                "snippet": "Pour les articles homonymes, voir Howard. Dwight Howard, né le 8 décembre 1985 à Atlanta en Géorgie, est un joueur américain de basket-ball. Il mesure",
+                "timestamp": "2022-04-01T07:15:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Ralph Sampson",
+                "pageid": 307302,
+                "size": 9329,
+                "wordcount": 906,
+                "snippet": "Pour les articles homonymes, voir Sampson. Ralph Lee Sampson, dit Ralph Sampson, né le 7 juillet 1960 à Harrisonburg, dans l'État de Virginie, est un basketteur",
+                "timestamp": "2021-11-25T07:15:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bob Pettit",
+                "pageid": 377752,
+                "size": 21530,
+                "wordcount": 1513,
+                "snippet": "Pour les articles homonymes, voir Pettit. Robert E. Lee Pettit dit Bob Pettit, né le 12 décembre 1932 à Bâton-Rouge, en Louisiane, est un ancien joueur",
+                "timestamp": "2022-02-28T20:20:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Wes Unseld",
+                "pageid": 232466,
+                "size": 20543,
+                "wordcount": 972,
+                "snippet": "Westley Sissel Unseld Sr., dit Wes Unseld, né le 14 mars 1946 à Louisville dans le Kentucky et mort le 2 juin 2020, est un ancien joueur et entraîneur",
+                "timestamp": "2021-12-03T07:31:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dolph Schayes",
+                "pageid": 550788,
+                "size": 6329,
+                "wordcount": 356,
+                "snippet": "Adolph Schayes (plus connu sous le nom de Dolph Schayes), né le 19 mai 1928 à New York et mort le 10 décembre 2015 à Syracuse, est un ancien joueur américain",
+                "timestamp": "2021-10-23T09:41:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Walt Bellamy",
+                "pageid": 1816785,
+                "size": 7710,
+                "wordcount": 521,
+                "snippet": "Pour les articles homonymes, voir Bellamy. Walter Jones Bellamy (né le 24 juillet 1939 à New Bern, Caroline du Nord et mort le 2 novembre 2013) est un",
+                "timestamp": "2021-07-31T15:22:52Z"
+            },
+            {
+                "ns": 0,
+                "title": "Joe Dumars",
+                "pageid": 687988,
+                "size": 13816,
+                "wordcount": 1435,
+                "snippet": "Joe Dumars III est un ancien joueur américain de basket-ball né le 24 mai 1963 à Shreveport en Louisiane. Après quatorze saisons dans l'équipe des Pistons",
+                "timestamp": "2022-04-06T08:37:44Z"
+            },
+            {
+                "ns": 0,
+                "title": "Billy Cunningham",
+                "pageid": 607936,
+                "size": 8016,
+                "wordcount": 652,
+                "snippet": "Pour les articles homonymes, voir Cunningham. William John Cunningham dit Billy Cunningham (né le 3 juin 1943 à Brooklyn, quartier de New York - ) est",
+                "timestamp": "2021-10-23T09:28:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "George Mikan",
+                "pageid": 281950,
+                "size": 14242,
+                "wordcount": 1186,
+                "snippet": "George Lawrence Mikan, né le 18 juin 1924 à Joliet en Illinois - décédé le 1er juin 2005 à Scottsdale, Arizona, était un joueur de basket-ball américain",
+                "timestamp": "2021-11-25T07:05:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dražen Dalipagić",
+                "pageid": 405664,
+                "size": 8039,
+                "wordcount": 494,
+                "snippet": "Dražen Dalipagić (en serbe : Дражен Далипагић), né le 27 novembre 1951 à Mostar, est un joueur et entraîneur serbe de basket-ball. Il est international",
+                "timestamp": "2022-02-27T00:38:16Z"
+            },
+            {
+                "ns": 0,
+                "title": "Adrian Dantley",
+                "pageid": 700057,
+                "size": 22557,
+                "wordcount": 1677,
+                "snippet": "Adrian Dantley (né le 28 février 1955 à Washington DC) est un joueur de basket-ball américain évoluant en NBA au poste d’ailier entre la fin des années",
+                "timestamp": "2022-03-27T23:26:57Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dave Bing",
+                "pageid": 583023,
+                "size": 7675,
+                "wordcount": 616,
+                "snippet": "Pour les articles homonymes, voir Bing. David Bing, né le 24 novembre 1943 à Washington, D.C., États-Unis, est un ancien joueur américain de basket-ball",
+                "timestamp": "2021-12-03T07:31:50Z"
+            },
+            {
+                "ns": 0,
+                "title": "Frank Ramsey (basket-ball)",
+                "pageid": 1885714,
+                "size": 18855,
+                "wordcount": 927,
+                "snippet": "Pour les articles homonymes, voir Ramsey. Frank Vernon Ramsey, Jr. (né le 13 juillet 1931 à Corydon dans le Kentucky et mort le 8 juillet 2018 à Madisonville",
+                "timestamp": "2022-02-05T16:35:36Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Fitch",
+                "pageid": 1796420,
+                "size": 5440,
+                "wordcount": 422,
+                "snippet": "Pour les articles homonymes, voir Fitch. William Charles Fitch, dit Bill Fitch, né le 19 mai 1932 à Davenport (Iowa) et mort le 2 février 2022 à Lake Conroe",
+                "timestamp": "2022-02-23T07:23:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tamika Catchings",
+                "pageid": 1068771,
+                "size": 32565,
+                "wordcount": 2850,
+                "snippet": "Tamika Catchings, née le 21 juillet 1979 à Stratford (New Jersey), est une joueuse américaine de basket-ball, évoluant au poste d'ailière, élue plusieurs",
+                "timestamp": "2021-07-31T13:16:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Nate Archibald",
+                "pageid": 520851,
+                "size": 6895,
+                "wordcount": 515,
+                "snippet": "Pour les articles homonymes, voir Archibald. Nathaniel « Tiny » (le Petit) Archibald, né le 2 septembre 1948 à New York (É.-U.), est un ancien joueur de",
+                "timestamp": "2022-03-12T17:30:30Z"
+            },
+            {
+                "ns": 0,
+                "title": "Lisa Leslie",
+                "pageid": 249062,
+                "size": 49869,
+                "wordcount": 4317,
+                "snippet": "Pour les articles homonymes, voir Leslie. Lisa Leslie, née le 7 juillet 1972 à Gardena en Californie, est une joueuse de basket-ball américaine évoluant",
+                "timestamp": "2021-08-07T07:53:02Z"
+            },
+            {
+                "ns": 0,
+                "title": "Clyde Lovellette",
+                "pageid": 2865483,
+                "size": 7608,
+                "wordcount": 588,
+                "snippet": "Clyde Lovellette (né le 7 septembre 1929 à Petersburg (Indiana) et mort le 9 mars 2016 à North Manchester (Indiana)) est un ancien joueur professionnel",
+                "timestamp": "2022-02-18T10:46:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kyrie Irving",
+                "pageid": 5560460,
+                "size": 39786,
+                "wordcount": 3308,
+                "snippet": "Pour les articles homonymes, voir Irving (homonymie). Kyrie Irving, né le 23 mars 1992 à Melbourne en Australie, est un joueur australo-américain de basket-ball",
+                "timestamp": "2022-03-28T07:00:53Z"
+            },
+            {
+                "ns": 0,
+                "title": "Ed Macauley",
+                "pageid": 1878612,
+                "size": 7509,
+                "wordcount": 666,
+                "snippet": "Pour les articles homonymes, voir Macauley. Charles Edward « Ed » Macauley (né le 22 mars 1928 à St. Louis, Missouri et mort le 8 novembre 2011 à St. Louis)",
+                "timestamp": "2021-12-18T19:28:33Z"
+            },
+            {
+                "ns": 0,
+                "title": "Rick Adelman",
+                "pageid": 3015923,
+                "size": 9793,
+                "wordcount": 883,
+                "snippet": "Pour les articles homonymes, voir Adelman. Rick Adelman, né le 16 juin 1946 à Lynwood, est un ancien joueur de basket-ball ayant évolué dans plusieurs",
+                "timestamp": "2021-09-29T06:35:39Z"
+            },
+            {
+                "ns": 0,
+                "title": "Níkos Gális",
+                "pageid": 422709,
+                "size": 6822,
+                "wordcount": 582,
+                "snippet": "Pour les articles homonymes, voir Galis. Nikolaos Georgalis (en grec Νικόλαος Γεωργαλής), connu comme Níkos Gális ou, aux États-Unis, Nick Galis, né le",
+                "timestamp": "2022-02-10T18:26:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Alex English",
+                "pageid": 1888064,
+                "size": 14400,
+                "wordcount": 613,
+                "snippet": "Pour les articles homonymes, voir English. Cet article est une ébauche concernant un joueur de basket-ball américain. Vous pouvez partager vos connaissances",
+                "timestamp": "2022-01-29T19:11:26Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jo Jo White",
+                "pageid": 394180,
+                "size": 10395,
+                "wordcount": 972,
+                "snippet": "Pour les articles homonymes, voir White. Joseph Henry White, dit Jo Jo White, né le 16 novembre 1946 à Saint-Louis dans le Missouri et mort le 16 janvier",
+                "timestamp": "2021-08-10T12:04:13Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bobby Jones (basket-ball, 1951)",
+                "pageid": 393767,
+                "size": 8620,
+                "wordcount": 658,
+                "snippet": "Pour les articles homonymes, voir Bobby Jones. Robert Clyde « Bobby » Jones, né le 18 décembre 1951 à Charlotte en Caroline du Nord, est un joueur de basket-ball",
+                "timestamp": "2021-07-31T13:22:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Reggie Miller",
+                "pageid": 98270,
+                "size": 24208,
+                "wordcount": 1321,
+                "snippet": "Pour les articles homonymes, voir Miller. Reginald Wayne Miller dit Reggie Miller (né le 24 août 1965 à Riverside en Californie) est un joueur américain",
+                "timestamp": "2022-03-30T04:52:01Z"
+            },
+            {
+                "ns": 0,
+                "title": "Boris Diaw",
+                "pageid": 220831,
+                "size": 121936,
+                "wordcount": 9652,
+                "snippet": "Pour les articles homonymes, voir Diaw. Boris Diaw, de son nom complet Boris Babacar Diaw-Riffiod, né le 16 avril 1982 à Cormeilles-en-Parisis, est un",
+                "timestamp": "2022-03-26T12:04:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Yolanda Griffith",
+                "pageid": 1018680,
+                "size": 7554,
+                "wordcount": 486,
+                "snippet": "Pour les articles homonymes, voir Griffith. Cet article est une ébauche concernant le basket-ball. Vous pouvez partager vos connaissances en l’améliorant",
+                "timestamp": "2021-09-28T09:00:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "Chris Mullin",
+                "pageid": 689000,
+                "size": 13829,
+                "wordcount": 1624,
+                "snippet": "Pour les articles homonymes, voir Mullin. Christopher Paul Mullin, connu sous le nom de Chris Mullin (né le 30 juillet 1963 à New York) est un joueur américain",
+                "timestamp": "2021-08-11T14:27:56Z"
+            },
+            {
+                "ns": 0,
+                "title": "Aleksandr Gomelski",
+                "pageid": 362169,
+                "size": 9826,
+                "wordcount": 838,
+                "snippet": "Aleksandr Iakovlevitch Gomelski (en russe : Александр Яковлевич Гомельский) est un entraîneur de basket-ball soviétique, né le 18 janvier 1928 à Kronstadt",
+                "timestamp": "2021-07-31T15:41:12Z"
+            },
+            {
+                "ns": 0,
+                "title": "George Gervin",
+                "pageid": 556690,
+                "size": 24286,
+                "wordcount": 2295,
+                "snippet": "George Gervin (né le 27 avril 1952), surnommé &quot;The Iceman&quot;, est un basketteur professionnel américain à la retraite qui a joué à la fois dans l'American",
+                "timestamp": "2022-01-28T08:34:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Šarūnas Marčiulionis",
+                "pageid": 391198,
+                "size": 7220,
+                "wordcount": 391,
+                "snippet": "Šarūnas Marčiulionis, né le 13 juin 1964 à Kaunas, est un joueur de basket-ball lituanien, évoluant au poste d'arrière. Il débute avec Statyba Vilnius",
+                "timestamp": "2021-07-31T11:19:02Z"
+            },
+            {
+                "ns": 0,
+                "title": "Alex Hannum",
+                "pageid": 393697,
+                "size": 5186,
+                "wordcount": 200,
+                "snippet": "Pour les articles homonymes, voir Alexander Murray et Murray. Cet article est une ébauche concernant un joueur de basket-ball américain. Vous pouvez partager",
+                "timestamp": "2021-07-31T15:41:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dick McGuire",
+                "pageid": 1881787,
+                "size": 4720,
+                "wordcount": 228,
+                "snippet": "Pour l’article homonyme, voir Richard McGuire (auteur). Pour les articles homonymes, voir McGuire. Cet article est une ébauche concernant le basket-ball",
+                "timestamp": "2021-07-31T11:19:32Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dave DeBusschere",
+                "pageid": 520740,
+                "size": 7884,
+                "wordcount": 654,
+                "snippet": "Pour les articles homonymes, voir Debusschere. David Albert DeBusschere, né le 16 octobre 1940 à Détroit (Michigan, Etats-Unis) et mort le 14 mai 2003",
+                "timestamp": "2021-10-23T09:29:00Z"
+            },
+            {
+                "ns": 0,
+                "title": "Walt Frazier",
+                "pageid": 576714,
+                "size": 6357,
+                "wordcount": 465,
+                "snippet": "Pour les articles homonymes, voir Frazier. Walter Frazier Jr. (né le 29 mars 1945 à Atlanta, Géorgie) est un ancien basketteur américain qui joua en NBA",
+                "timestamp": "2021-11-25T07:09:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Steve Kerr",
+                "pageid": 1766289,
+                "size": 50723,
+                "wordcount": 4126,
+                "snippet": "Pour les articles homonymes, voir Kerr. Stephen « Steve » Douglas Kerr né le 27 septembre 1965 à Beyrouth au Liban, est un entraîneur américain et ancien",
+                "timestamp": "2022-04-07T09:08:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Mike Krzyzewski",
+                "pageid": 942259,
+                "size": 22424,
+                "wordcount": 2325,
+                "snippet": "Michael William « Mike » Krzyzewski (prononcé cha-CHEF-ski), né le 13 février 1947 à Chicago, souvent surnommé Coach K est un entraîneur américain de basket-ball",
+                "timestamp": "2022-04-05T05:29:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dino Meneghin",
+                "pageid": 407944,
+                "size": 9122,
+                "wordcount": 810,
+                "snippet": "Pour les articles homonymes, voir Meneghin. Dino Meneghin, né le 18 janvier 1950 à Alano di Piave, est un joueur de basket-ball italien, évoluant au poste",
+                "timestamp": "2021-07-31T15:31:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Aleksandar Nikolić",
+                "pageid": 426170,
+                "size": 6629,
+                "wordcount": 290,
+                "snippet": "Pour les articles homonymes, voir Nikolić. Cet article est une ébauche concernant le basket-ball et une personnalité serbe. Vous pouvez partager vos connaissances",
+                "timestamp": "2021-09-23T14:16:10Z"
+            }
+        ]
+    }
+}

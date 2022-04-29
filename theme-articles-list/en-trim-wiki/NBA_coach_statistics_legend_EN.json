@@ -1,0 +1,847 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "searchinfo": {
+            "totalhits": 438
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "Magic Johnson",
+                "pageid": 36753,
+                "size": 145769,
+                "wordcount": 13339,
+                "snippet": "Earvin &quot;Magic&quot; Johnson Jr. (born August 14, 1959) is an American former professional basketball player and former president of basketball operations of",
+                "timestamp": "2022-04-02T11:35:06Z"
+            },
+            {
+                "ns": 0,
+                "title": "Pat Riley",
+                "pageid": 352045,
+                "size": 52082,
+                "wordcount": 4089,
+                "snippet": "Patrick James Riley (born March 20, 1945) is an American professional basketball executive and a former coach and player in the National Basketball Association",
+                "timestamp": "2022-04-07T03:28:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jerry West",
+                "pageid": 331363,
+                "size": 81449,
+                "wordcount": 8275,
+                "snippet": "Jerome Alan West (born May 28, 1938) is an American basketball executive and former player. He played professionally for the Los Angeles Lakers of the",
+                "timestamp": "2022-04-02T04:51:36Z"
+            },
+            {
+                "ns": 0,
+                "title": "Larry Bird",
+                "pageid": 55029,
+                "size": 78469,
+                "wordcount": 6698,
+                "snippet": "Larry Joe Bird (born December 7, 1956) is an American former professional basketball player, coach and executive in the National Basketball Association",
+                "timestamp": "2022-04-06T15:37:04Z"
+            },
+            {
+                "ns": 0,
+                "title": "Phil Jackson",
+                "pageid": 663591,
+                "size": 59598,
+                "wordcount": 5303,
+                "snippet": "Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive in the National Basketball",
+                "timestamp": "2022-04-06T07:57:42Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Russell",
+                "pageid": 412214,
+                "size": 159409,
+                "wordcount": 16673,
+                "snippet": "William Felton Russell (born February 12, 1934) is an American former professional basketball player who played as a center for the Boston Celtics of the",
+                "timestamp": "2022-04-07T04:06:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Steve Nash",
+                "pageid": 346029,
+                "size": 115072,
+                "wordcount": 11116,
+                "snippet": "Stephen John Nash OC OBC (born 7 February 1974) is a Canadian professional basketball coach and former player who is the head coach of the Brooklyn Nets",
+                "timestamp": "2022-03-24T15:50:54Z"
+            },
+            {
+                "ns": 0,
+                "title": "Red Auerbach",
+                "pageid": 310196,
+                "size": 52580,
+                "wordcount": 5583,
+                "snippet": "Arnold Jacob &quot;Red&quot; Auerbach (September 20, 1917 – October 28, 2006) was an American professional basketball coach and executive. He served as a head coach",
+                "timestamp": "2022-04-02T04:31:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Paul Westhead",
+                "pageid": 4137981,
+                "size": 29133,
+                "wordcount": 1643,
+                "snippet": "Paul William Westhead (born February 21, 1939) is an American former basketball coach. He was the head coach for three National Basketball Association",
+                "timestamp": "2022-04-05T17:58:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "John Calipari",
+                "pageid": 1642930,
+                "size": 61147,
+                "wordcount": 4758,
+                "snippet": "John Vincent Calipari (born February 10, 1959) is an American basketball coach. Since 2009, he has been the head coach of the University of Kentucky men's",
+                "timestamp": "2022-04-05T02:53:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jason Kidd",
+                "pageid": 462394,
+                "size": 88387,
+                "wordcount": 8389,
+                "snippet": "Jason Frederick Kidd (born March 23, 1973) is an American professional basketball coach and former player who is the head coach for the Dallas Mavericks",
+                "timestamp": "2022-03-07T02:34:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Rick Pitino",
+                "pageid": 408442,
+                "size": 77626,
+                "wordcount": 5461,
+                "snippet": "Richard Andrew Pitino (born September 18, 1952) is an American college basketball coach who is the head coach for Iona College. He is also the head coach",
+                "timestamp": "2022-04-04T16:41:49Z"
+            },
+            {
+                "ns": 0,
+                "title": "Isiah Thomas",
+                "pageid": 542932,
+                "size": 86347,
+                "wordcount": 8167,
+                "snippet": "Isiah Lord Thomas III (born April 30, 1961) is an American former professional basketball player, coach and executive who is an analyst for NBA TV. A point",
+                "timestamp": "2022-03-09T14:16:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "Michael Cooper",
+                "pageid": 1350373,
+                "size": 28052,
+                "wordcount": 1251,
+                "snippet": "Michael Jerome Cooper (born April 15, 1956) is an American basketball coach and former player who is the boys varsity coach at Culver City High School",
+                "timestamp": "2022-04-04T22:28:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Doc Rivers",
+                "pageid": 1642868,
+                "size": 40491,
+                "wordcount": 2531,
+                "snippet": "Glenn Anton &quot;Doc&quot; Rivers (born October 13, 1961) is an American professional basketball coach and former player who is the head coach for the Philadelphia",
+                "timestamp": "2022-03-11T16:39:05Z"
+            },
+            {
+                "ns": 0,
+                "title": "Larry Brown (basketball)",
+                "pageid": 304691,
+                "size": 52837,
+                "wordcount": 3486,
+                "snippet": "Lawrence Harvey Brown (born September 14, 1940) is an American basketball coach and former player who is currently an assistant coach of the Memphis Tigers",
+                "timestamp": "2022-03-14T01:03:53Z"
+            },
+            {
+                "ns": 0,
+                "title": "Steve Kerr",
+                "pageid": 221788,
+                "size": 53893,
+                "wordcount": 4378,
+                "snippet": "Stephen Douglas Kerr (born September 27, 1965) is an American professional basketball coach and former player who is the head coach of the Golden State",
+                "timestamp": "2022-03-21T03:51:53Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Sharman",
+                "pageid": 1683058,
+                "size": 24169,
+                "wordcount": 1392,
+                "snippet": "William Walton Sharman (May 25, 1926 – October 25, 2013) was an American professional basketball player and coach. He is mostly known for his time with",
+                "timestamp": "2022-03-18T01:27:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Eric Musselman",
+                "pageid": 4209225,
+                "size": 59549,
+                "wordcount": 5638,
+                "snippet": "Eric Patrick Musselman (born November 19, 1964) is an American college basketball coach who is the current head men's basketball coach at the University",
+                "timestamp": "2022-03-27T18:59:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jack McKinney (basketball)",
+                "pageid": 4170380,
+                "size": 21114,
+                "wordcount": 1373,
+                "snippet": "John Paul McKinney (July 13, 1935 – September 25, 2018) was an American college and professional basketball coach. As a head coach in the National Basketball",
+                "timestamp": "2022-04-06T22:23:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "Elgin Baylor",
+                "pageid": 419485,
+                "size": 43055,
+                "wordcount": 3695,
+                "snippet": "Elgin Gay Baylor (September 16, 1934 – March 22, 2021) was an American professional basketball player, coach, and executive. He played 14 seasons as a",
+                "timestamp": "2022-04-06T23:55:00Z"
+            },
+            {
+                "ns": 0,
+                "title": "Gregg Popovich",
+                "pageid": 1664132,
+                "size": 43328,
+                "wordcount": 2755,
+                "snippet": "Gregg Charles Popovich (born January 28, 1949) is an American professional basketball coach and executive who is the president and head coach of the San",
+                "timestamp": "2022-04-07T05:20:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dick Vitale",
+                "pageid": 753740,
+                "size": 24068,
+                "wordcount": 2239,
+                "snippet": "Richard John Vitale (/vaɪˈtæl/; born June 9, 1939), also known as &quot;Dickie V&quot;, is an American basketball sportscaster. A former head coach in the college",
+                "timestamp": "2022-03-17T04:34:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Paul Westphal",
+                "pageid": 217282,
+                "size": 31870,
+                "wordcount": 1865,
+                "snippet": "Paul Douglas Westphal (November 30, 1950 – January 2, 2021) was an American basketball player, head coach, and commentator. Westphal played in the National",
+                "timestamp": "2022-03-06T20:01:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kevin McHale (basketball)",
+                "pageid": 1146033,
+                "size": 48293,
+                "wordcount": 4905,
+                "snippet": "Kevin Edward McHale (born December 19, 1957) is an American former professional basketball player, coach and analyst who played his entire professional",
+                "timestamp": "2022-03-06T05:55:38Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bob Cousy",
+                "pageid": 350762,
+                "size": 54929,
+                "wordcount": 5198,
+                "snippet": "Robert Joseph Cousy (/ˈkuːziː/, born August 9, 1928) is an American former professional basketball player. Cousy played point guard with the Boston Celtics",
+                "timestamp": "2022-03-18T18:50:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jack Ramsay",
+                "pageid": 2079943,
+                "size": 24451,
+                "wordcount": 2012,
+                "snippet": "John Travilla Ramsay (February 21, 1925 – April 28, 2014) was an American basketball coach, commonly known as &quot;Dr. Jack&quot; (as he held an earned doctorate)",
+                "timestamp": "2022-03-31T17:26:06Z"
+            },
+            {
+                "ns": 0,
+                "title": "Brad Stevens",
+                "pageid": 10973779,
+                "size": 88201,
+                "wordcount": 8906,
+                "snippet": "Bradley Kent Stevens (born October 22, 1976) is an American basketball executive and former professional coach. He is the president of basketball operations",
+                "timestamp": "2022-04-05T02:04:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tyronn Lue",
+                "pageid": 2316883,
+                "size": 24565,
+                "wordcount": 1678,
+                "snippet": "Tyronn Jamar Lue (pronounced Ta-RON LEW; born May 3, 1977) is an American professional basketball coach and former player who is the head coach for the",
+                "timestamp": "2022-01-26T06:19:57Z"
+            },
+            {
+                "ns": 0,
+                "title": "Nolan Richardson",
+                "pageid": 896404,
+                "size": 27310,
+                "wordcount": 1593,
+                "snippet": "Nolan Richardson Jr. (born December 27, 1941) is a former American basketball head coach best known for his tenure at the University of Arkansas, where",
+                "timestamp": "2022-04-03T21:08:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Billy Donovan",
+                "pageid": 1443634,
+                "size": 71923,
+                "wordcount": 5934,
+                "snippet": "William John Donovan Jr. (born May 30, 1965) is an American professional basketball coach and former player. He has served as head coach of the Chicago",
+                "timestamp": "2022-03-29T01:23:13Z"
+            },
+            {
+                "ns": 0,
+                "title": "Lenny Wilkens",
+                "pageid": 859537,
+                "size": 35861,
+                "wordcount": 1717,
+                "snippet": "Leonard Randolph Wilkens (born October 28, 1937) is an American former basketball player and coach in the National Basketball Association (NBA). He has",
+                "timestamp": "2022-03-23T14:43:00Z"
+            },
+            {
+                "ns": 0,
+                "title": "Chuck Daly",
+                "pageid": 1042017,
+                "size": 20231,
+                "wordcount": 890,
+                "snippet": "Charles Jerome Daly (July 20, 1930 – May 9, 2009) was an American basketball head coach. He led the Detroit Pistons to two consecutive National Basketball",
+                "timestamp": "2022-04-05T17:31:35Z"
+            },
+            {
+                "ns": 0,
+                "title": "P. J. Carlesimo",
+                "pageid": 1642915,
+                "size": 24508,
+                "wordcount": 1320,
+                "snippet": "Peter John Carlesimo (born May 30, 1949) is an American basketball coach who coached in both the National Basketball Association (NBA) and college basketball",
+                "timestamp": "2022-04-01T04:25:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tom Heinsohn",
+                "pageid": 531828,
+                "size": 23957,
+                "wordcount": 1405,
+                "snippet": "Thomas William Heinsohn (August 26, 1934 – November 9, 2020) was an American professional basketball player. He was associated with the Boston Celtics",
+                "timestamp": "2022-04-02T22:49:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Don Nelson",
+                "pageid": 1440071,
+                "size": 72634,
+                "wordcount": 6484,
+                "snippet": "Donald Arvid Nelson (born May 15, 1940) is an American former professional basketball player and head coach. Nelson is second all-time in regular season",
+                "timestamp": "2022-03-20T16:57:48Z"
+            },
+            {
+                "ns": 0,
+                "title": "Danny Ainge",
+                "pageid": 378597,
+                "size": 36124,
+                "wordcount": 2857,
+                "snippet": "Daniel Ray Ainge (/ˈeɪndʒ/ AYNJ; born March 17, 1959) is an American former professional basketball player, coach, and former professional baseball player",
+                "timestamp": "2022-02-11T23:38:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jerry Sloan",
+                "pageid": 494643,
+                "size": 43657,
+                "wordcount": 3061,
+                "snippet": "Gerald Eugene Sloan (March 28, 1942 – May 22, 2020) was an American professional basketball player and coach. He played 11 seasons in the National Basketball",
+                "timestamp": "2022-02-09T18:10:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Wes Unseld",
+                "pageid": 1171753,
+                "size": 32306,
+                "wordcount": 1743,
+                "snippet": "Westley Sissel Unseld (March 14, 1946 – June 2, 2020) was an American professional basketball player, coach and executive. He spent his entire National",
+                "timestamp": "2022-04-06T21:59:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "George Karl",
+                "pageid": 1634931,
+                "size": 48486,
+                "wordcount": 4054,
+                "snippet": "George Matthew Karl (born May 12, 1951) is an American former professional basketball coach and player. After spending five years as a player for the San",
+                "timestamp": "2022-04-02T22:25:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "K. C. Jones",
+                "pageid": 1704443,
+                "size": 33150,
+                "wordcount": 1865,
+                "snippet": "K. C. Jones (May 25, 1932 – December 25, 2020) was an American professional basketball player and coach. He is best known for his association with the",
+                "timestamp": "2022-03-31T21:27:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Billy Cunningham",
+                "pageid": 1669400,
+                "size": 25316,
+                "wordcount": 1701,
+                "snippet": "William John Cunningham (born June 3, 1943) is an American former professional basketball player and coach, who was nicknamed the Kangaroo Kid for his",
+                "timestamp": "2022-02-26T04:32:58Z"
+            },
+            {
+                "ns": 0,
+                "title": "Erik Spoelstra",
+                "pageid": 15909999,
+                "size": 33569,
+                "wordcount": 2550,
+                "snippet": "Erik Jon Spoelstra (/ˈspoʊlstrə/ SPOHL-strə; born November 1, 1970) is an American professional basketball coach and former player who is the head coach",
+                "timestamp": "2022-04-01T02:23:35Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dennis Johnson",
+                "pageid": 1723233,
+                "size": 45533,
+                "wordcount": 4225,
+                "snippet": "Dennis Wayne Johnson (September 18, 1954 – February 22, 2007), nicknamed &quot;DJ&quot;, was an American professional basketball player for the National Basketball",
+                "timestamp": "2022-02-12T01:55:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Byron Scott",
+                "pageid": 40565874,
+                "size": 40157,
+                "wordcount": 2620,
+                "snippet": "Byron Antom Scott (born March 28, 1961) is an American former professional basketball player and head coach in the National Basketball Association (NBA)",
+                "timestamp": "2022-04-06T08:29:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dave Cowens",
+                "pageid": 1669319,
+                "size": 30207,
+                "wordcount": 2200,
+                "snippet": "David William Cowens (born October 25, 1948) is an American former professional basketball player and NBA head coach. At 6'9&quot;, he played the center position",
+                "timestamp": "2022-03-25T01:06:17Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Laimbeer",
+                "pageid": 730446,
+                "size": 32999,
+                "wordcount": 2121,
+                "snippet": "William J. Laimbeer Jr. (born May 19, 1957) is an American professional basketball coach and former player. In his National Basketball Association (NBA)",
+                "timestamp": "2022-01-14T20:58:56Z"
+            },
+            {
+                "ns": 0,
+                "title": "Mark Jackson",
+                "pageid": 3026950,
+                "size": 33179,
+                "wordcount": 2592,
+                "snippet": "Mark A. Jackson (born April 1, 1965) is an American former professional basketball player and coach. A point guard from St. John's University, he played",
+                "timestamp": "2022-02-13T00:48:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "Doug Collins (basketball)",
+                "pageid": 1298667,
+                "size": 27883,
+                "wordcount": 1922,
+                "snippet": "Paul Douglas Collins (born July 28, 1951) is an American basketball executive, former player, coach and television analyst in the National Basketball Association",
+                "timestamp": "2022-03-30T23:53:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Hubie Brown",
+                "pageid": 1212446,
+                "size": 25132,
+                "wordcount": 1995,
+                "snippet": "Hubert Jude Brown (born September 25, 1933) is an American retired basketball coach and player and a current television analyst. Brown is a two-time NBA",
+                "timestamp": "2022-02-20T21:39:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Mike D'Antoni",
+                "pageid": 1634944,
+                "size": 54933,
+                "wordcount": 4056,
+                "snippet": "Michael Andrew D'Antoni (born May 8, 1951) is an Italian-American professional basketball coach and former player who is a coaching advisor for the New",
+                "timestamp": "2022-03-24T09:36:53Z"
+            },
+            {
+                "ns": 0,
+                "title": "Rudy Tomjanovich",
+                "pageid": 1114029,
+                "size": 26552,
+                "wordcount": 1738,
+                "snippet": "Rudolph Tomjanovich Jr. (born November 24, 1948) is an American former professional basketball player and coach who is a consultant for the Minnesota Timberwolves",
+                "timestamp": "2022-03-24T17:13:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Luke Walton",
+                "pageid": 1591574,
+                "size": 37485,
+                "wordcount": 3019,
+                "snippet": "Luke Theodore Walton (born March 28, 1980) is an American professional basketball coach and former player who most recently served as the head coach of",
+                "timestamp": "2022-04-06T15:10:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Keith Smart",
+                "pageid": 1962215,
+                "size": 14600,
+                "wordcount": 771,
+                "snippet": "Jonathan Keith Smart (born September 21, 1964) is an American collegiate basketball coach and former player. He is perhaps best remembered for hitting",
+                "timestamp": "2022-02-23T08:18:09Z"
+            },
+            {
+                "ns": 0,
+                "title": "Maurice Cheeks",
+                "pageid": 1237418,
+                "size": 28180,
+                "wordcount": 1954,
+                "snippet": "Maurice Edward Cheeks (born September 8, 1956) is an American professional basketball coach and former player who serves as assistant coach for the Chicago",
+                "timestamp": "2022-03-19T05:17:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Derek Fisher",
+                "pageid": 1246851,
+                "size": 77069,
+                "wordcount": 6726,
+                "snippet": "Derek Lamar Fisher (born August 9, 1974) is an American basketball coach and former player who is the head coach and the general manager for the Los Angeles",
+                "timestamp": "2022-04-06T15:20:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Avery Johnson",
+                "pageid": 5559010,
+                "size": 33366,
+                "wordcount": 2016,
+                "snippet": "Avery DeWitt Johnson (born March 25, 1965) is an American basketball television commentator and former player and coach who most recently served as head",
+                "timestamp": "2022-01-23T18:42:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Quin Snyder",
+                "pageid": 1238630,
+                "size": 25169,
+                "wordcount": 1726,
+                "snippet": "Quin Price Snyder (born October 30, 1966) is an American basketball coach who is the head coach of the Utah Jazz of the National Basketball Association",
+                "timestamp": "2022-02-10T05:09:12Z"
+            },
+            {
+                "ns": 0,
+                "title": "Cynthia Cooper-Dyke",
+                "pageid": 1188218,
+                "size": 38039,
+                "wordcount": 2326,
+                "snippet": "Cynthia Lynne Cooper-Dyke (née Cooper; born April 14, 1963) is an American basketball coach and former player who has won championships in college, in",
+                "timestamp": "2022-03-28T21:35:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dan Issel",
+                "pageid": 1925835,
+                "size": 36814,
+                "wordcount": 2745,
+                "snippet": "Daniel Paul Issel (born October 25, 1948) is an American former professional basketball player and coach. An outstanding collegian at the University of",
+                "timestamp": "2022-03-22T22:22:58Z"
+            },
+            {
+                "ns": 0,
+                "title": "Frank Vogel",
+                "pageid": 30697713,
+                "size": 22671,
+                "wordcount": 1687,
+                "snippet": "Frank Paul Vogel (born June 21, 1973) is an American professional basketball coach who is the head coach of the Los Angeles Lakers of the National Basketball",
+                "timestamp": "2022-04-06T23:40:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Mike Dunleavy Sr.",
+                "pageid": 1642985,
+                "size": 17330,
+                "wordcount": 906,
+                "snippet": "Michael Joseph Dunleavy Sr. (born March 21, 1954) is an American former professional basketball player, head coach, and general manager of the National",
+                "timestamp": "2022-03-25T04:52:37Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tex Winter",
+                "pageid": 3227879,
+                "size": 31309,
+                "wordcount": 1712,
+                "snippet": "Morice Fredrick &quot;Tex&quot; Winter (February 25, 1922 – October 10, 2018) was an American basketball coach and innovator of the triangle offense. He was a head",
+                "timestamp": "2022-04-03T19:25:25Z"
+            },
+            {
+                "ns": 0,
+                "title": "Katie Smith",
+                "pageid": 2438066,
+                "size": 29238,
+                "wordcount": 1747,
+                "snippet": "Katie Smith (born June 4, 1974) is lead assistant coach for the Minnesota Lynx of the Women's National Basketball Association (WNBA). She is the former",
+                "timestamp": "2022-02-23T07:58:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Red Holzman",
+                "pageid": 1003449,
+                "size": 21324,
+                "wordcount": 950,
+                "snippet": "William &quot;Red&quot; Holzman (August 10, 1920 – November 13, 1998) was an American professional basketball player and coach. He is best known as the head coach",
+                "timestamp": "2022-04-05T17:29:51Z"
+            },
+            {
+                "ns": 0,
+                "title": "Lou Carnesecca",
+                "pageid": 1211599,
+                "size": 20485,
+                "wordcount": 574,
+                "snippet": "Luigi P. Carnesecca (born January 5, 1925) is an American retired college basketball coach at St. John's University. Carnesecca also coached at the professional",
+                "timestamp": "2022-03-03T00:40:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Gene Shue",
+                "pageid": 1723213,
+                "size": 48895,
+                "wordcount": 3867,
+                "snippet": "Eugene William Shue (December 18, 1931 – April 3, 2022) was an American professional basketball player and coach in the National Basketball Association",
+                "timestamp": "2022-04-06T19:33:12Z"
+            },
+            {
+                "ns": 0,
+                "title": "John Beilein",
+                "pageid": 3722405,
+                "size": 200866,
+                "wordcount": 13080,
+                "snippet": "John Patrick Beilein (/ˈbiːlaɪn/ BEE-lyne; born February 5, 1953) is an American professional basketball coach who currently serves as the Senior Player",
+                "timestamp": "2022-04-06T19:30:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Musselman",
+                "pageid": 4137099,
+                "size": 26051,
+                "wordcount": 3079,
+                "snippet": "William Clifford Musselman (August 13, 1940 – May 5, 2000) was an American basketball coach in the NCAA, the ABA, the WBA, the CBA, and the NBA. He was",
+                "timestamp": "2022-03-26T20:30:21Z"
+            },
+            {
+                "ns": 0,
+                "title": "Monty Williams",
+                "pageid": 6018248,
+                "size": 22633,
+                "wordcount": 1661,
+                "snippet": "Tavares Montgomery Williams (born October 8, 1971) is an American professional basketball coach and a former player and executive who is the head coach",
+                "timestamp": "2022-04-01T04:43:30Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bill Fitch",
+                "pageid": 222425,
+                "size": 26435,
+                "wordcount": 1857,
+                "snippet": "William Charles Fitch (May 19, 1932 – February 2, 2022) was an American professional basketball coach in the National Basketball Association (NBA). He",
+                "timestamp": "2022-04-02T04:30:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "Nate McMillan",
+                "pageid": 1682989,
+                "size": 30562,
+                "wordcount": 1826,
+                "snippet": "Nathaniel McMillan (born August 3, 1964) is an American basketball coach and former player who serves as head coach of the Atlanta Hawks of the National",
+                "timestamp": "2022-03-24T07:50:50Z"
+            },
+            {
+                "ns": 0,
+                "title": "Tom Thibodeau",
+                "pageid": 17130725,
+                "size": 34486,
+                "wordcount": 3094,
+                "snippet": "Thomas Joseph Thibodeau Jr. (/ˈθɪbədoʊ/ THIB-ə-doh; born January 17, 1958) is an American basketball coach who is the head coach for the New York Knicks",
+                "timestamp": "2022-03-18T19:34:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Stan Van Gundy",
+                "pageid": 1959565,
+                "size": 27923,
+                "wordcount": 2430,
+                "snippet": "Stanley Alan Van Gundy (born August 26, 1959) is a former American basketball coach and current NBA game analyst for TNT. Prior to TNT, Van Gundy most",
+                "timestamp": "2022-03-16T18:36:44Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jeff Van Gundy",
+                "pageid": 1874415,
+                "size": 21926,
+                "wordcount": 1822,
+                "snippet": "Jeffrey William Van Gundy (born January 19, 1962) is an American commentator for ESPN and former basketball coach. He served as head coach of the New York",
+                "timestamp": "2022-03-29T20:30:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Rick Carlisle",
+                "pageid": 643299,
+                "size": 26404,
+                "wordcount": 1871,
+                "snippet": "Richard Preston Carlisle (/ˈkɑːrlaɪl/ KAR-lyle; born October 27, 1959) is an American basketball coach and former player who is the head coach for the",
+                "timestamp": "2022-03-06T01:40:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "John Kundla",
+                "pageid": 1466373,
+                "size": 24463,
+                "wordcount": 1594,
+                "snippet": "John Albert Kundla (July 3, 1916 – July 23, 2017) was an American college and professional basketball coach. He was the first head coach for the Minneapolis",
+                "timestamp": "2022-04-05T17:33:21Z"
+            },
+            {
+                "ns": 0,
+                "title": "Mike Budenholzer",
+                "pageid": 30476025,
+                "size": 14775,
+                "wordcount": 967,
+                "snippet": "Michael Vincent Budenholzer (born August 6, 1969) is an American professional basketball coach who is the head coach of the Milwaukee Bucks of the National",
+                "timestamp": "2022-03-26T06:36:38Z"
+            },
+            {
+                "ns": 0,
+                "title": "Stephanie White",
+                "pageid": 16726865,
+                "size": 17440,
+                "wordcount": 1040,
+                "snippet": "Stephanie Joanne White (formerly Stephanie White-McCarty; born June 20, 1977) is a former professional basketball player and was head coach of the Vanderbilt",
+                "timestamp": "2022-03-14T16:29:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kurt Rambis",
+                "pageid": 1738719,
+                "size": 20325,
+                "wordcount": 1599,
+                "snippet": "Darrell Kurt Rambis (born February 25, 1958) is a Greek-American former professional basketball player and coach who is a senior basketball adviser for",
+                "timestamp": "2022-03-17T00:48:52Z"
+            },
+            {
+                "ns": 0,
+                "title": "Rick Adelman",
+                "pageid": 2215095,
+                "size": 19758,
+                "wordcount": 1090,
+                "snippet": "Richard Leonard Adelman (born June 16, 1946) is an American former professional basketball player and coach. He coached 23 seasons in the National Basketball",
+                "timestamp": "2022-03-20T18:38:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Cotton Fitzsimmons",
+                "pageid": 858337,
+                "size": 37156,
+                "wordcount": 3027,
+                "snippet": "Lowell Gibbs &quot;Cotton&quot; Fitzsimmons (October 7, 1931 – July 24, 2004) was an American college and NBA basketball coach. A native of Bowling Green, Missouri",
+                "timestamp": "2022-04-04T02:25:02Z"
+            },
+            {
+                "ns": 0,
+                "title": "Carolyn Peck",
+                "pageid": 17454431,
+                "size": 19169,
+                "wordcount": 1556,
+                "snippet": "Carolyn Arlene Peck (born January 22, 1966) is an American television sportscaster and former college basketball coach. She was the head coach for the",
+                "timestamp": "2022-03-14T16:31:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jeff Hornacek",
+                "pageid": 778464,
+                "size": 29669,
+                "wordcount": 2213,
+                "snippet": "Jeffrey John Hornacek (/ˈhɔːrnəsɛk/; born May 3, 1963) is an American professional basketball coach and a former player who is an assistant coach for the",
+                "timestamp": "2022-03-24T09:56:50Z"
+            },
+            {
+                "ns": 0,
+                "title": "Earl Lloyd",
+                "pageid": 2861019,
+                "size": 22612,
+                "wordcount": 1764,
+                "snippet": "Earl Francis Lloyd (April 3, 1928 – February 26, 2015) was an American professional basketball player and coach. He was the first African American player",
+                "timestamp": "2022-03-03T14:40:41Z"
+            },
+            {
+                "ns": 0,
+                "title": "Dwane Casey",
+                "pageid": 1733593,
+                "size": 27068,
+                "wordcount": 2005,
+                "snippet": "Dwane Lyndon Casey (born April 17, 1957) is an American basketball coach who is the head coach for the Detroit Pistons of the National Basketball Association",
+                "timestamp": "2022-03-15T03:37:54Z"
+            },
+            {
+                "ns": 0,
+                "title": "Quinn Buckner",
+                "pageid": 4158993,
+                "size": 20924,
+                "wordcount": 2052,
+                "snippet": "William Quinn Buckner (born August 20, 1954) is an American former professional basketball player and coach. He played collegiate basketball for the Indiana",
+                "timestamp": "2022-02-03T19:32:06Z"
+            },
+            {
+                "ns": 0,
+                "title": "Andy Phillip",
+                "pageid": 2821328,
+                "size": 21302,
+                "wordcount": 1012,
+                "snippet": "Andrew Michael &quot;Handy Andy&quot; Phillip (March 7, 1922 – April 29, 2001) was an American professional basketball player. Born in Granite City, Illinois, Phillip",
+                "timestamp": "2022-03-16T07:52:09Z"
+            },
+            {
+                "ns": 0,
+                "title": "Bobby Leonard",
+                "pageid": 4190963,
+                "size": 15918,
+                "wordcount": 864,
+                "snippet": "William Robert &quot;Slick&quot; Leonard (July 17, 1932 – April 13, 2021) was an American professional basketball player, coach and color commentator. He played",
+                "timestamp": "2021-11-07T18:38:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Jim Pollard",
+                "pageid": 1687058,
+                "size": 18253,
+                "wordcount": 972,
+                "snippet": "James Clifford Pollard (July 9, 1922 – January 22, 1993) was an American professional basketball player and coach. As a player in the National Basketball",
+                "timestamp": "2022-03-14T05:40:25Z"
+            },
+            {
+                "ns": 0,
+                "title": "John Lucas II",
+                "pageid": 30864579,
+                "size": 16910,
+                "wordcount": 1199,
+                "snippet": "John Harding Lucas II (born October 31, 1953) is an American professional basketball coach and former player. He serves as the player development coach",
+                "timestamp": "2022-03-28T17:11:49Z"
+            },
+            {
+                "ns": 0,
+                "title": "Lon Kruger",
+                "pageid": 3658602,
+                "size": 31066,
+                "wordcount": 1171,
+                "snippet": "Lonnie Duane Kruger (born August 19, 1952) is a retired American college and professional basketball coach who was most recently the men's basketball head",
+                "timestamp": "2022-03-16T09:14:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Al Attles",
+                "pageid": 1682543,
+                "size": 15167,
+                "wordcount": 942,
+                "snippet": "Alvin Austin Attles Jr. (born November 7, 1936) is an American former professional basketball player and coach best known for his longtime association",
+                "timestamp": "2022-03-18T00:49:59Z"
+            }
+        ]
+    }
+}

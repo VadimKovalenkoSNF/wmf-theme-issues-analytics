@@ -1,0 +1,59 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "sroffset": 500,
+        "continue": "-||"
+    },
+    "query": {
+        "searchinfo": {
+            "totalhits": 10765
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "Michael Jordan",
+                "pageid": 50915,
+                "size": 170770,
+                "wordcount": 17126,
+                "snippet": "Vous lisez un « bon article ». Pour les articles homonymes, voir Michael Jordan (homonymie), Jordan et MJ. Michael Jordan (aussi appelé par ses initiales",
+                "timestamp": "2022-04-05T08:44:57Z"
+            },
+            {
+                "ns": 0,
+                "title": "Magic Johnson",
+                "pageid": 227970,
+                "size": 155132,
+                "wordcount": 16812,
+                "snippet": "Pour les articles homonymes, voir Magic et Johnson. Vous lisez un « bon article ». Earvin Johnson Jr., dit Magic Johnson, né le 14 août 1959 à Lansing",
+                "timestamp": "2022-03-25T12:43:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "LeBron James",
+                "pageid": 271932,
+                "size": 177754,
+                "wordcount": 15824,
+                "snippet": "Pour les articles homonymes, voir James. « King James » redirige ici. Pour la Bible King James, voir Bible du roi Jacques. LeBron Raymone James, né le",
+                "timestamp": "2022-04-06T06:04:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Larry Bird",
+                "pageid": 232155,
+                "size": 179340,
+                "wordcount": 17444,
+                "snippet": "Vous lisez un « article de qualité ». Pour les articles homonymes, voir Bird. Larry Joe Bird, parfois surnommé « Larry Legend » ou « Gold Hand », est un",
+                "timestamp": "2022-03-12T11:34:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Shaquille O'Neal",
+                "pageid": 172063,
+                "size": 93026,
+                "wordcount": 9395,
+                "snippet": "Pour les articles homonymes, voir O'Neal. Shaquille O'Neal, surnommé Shaq, né le 6 mars 1972 à Newark dans le New Jersey, est un joueur américain de basket-ball",
+                "timestamp": "2022-03-30T14:12:14Z"
+            }
+        ]
+    }
+}
